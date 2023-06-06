@@ -1,0 +1,6 @@
+huong dan su dung lenh vi trong linux 
+co ok không
+commit
+wq! : thoat khoi lenh vi nhu the nao 
+
+
