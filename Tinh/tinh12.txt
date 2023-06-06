@@ -3,4 +3,9 @@ co ok không
 commit
 wq! : thoat khoi lenh vi nhu the nao 
 
+git test 2 update theem nooi dung vao trong git test 2
+
+Theem nhieu noi dug moi thu xem 
+
+file o gist 1 vaf vaft git test 2 the nao
 
